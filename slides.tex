@@ -55,7 +55,7 @@
 \newcommand{\presenterEmail}{a.gutierrez@upm.es}         % <-- verify
 \newcommand{\presenterWebsite}{www.robolabo.etsit.upm.es}
 
-\title{Behaviour Planning and Generation for Multi-Robot Systems Based on Large Language Models}
+\title{Hierarchical Behavior Planning for Multi-Robot Systems Based on Large Language Models}
 \author{Luc\'ia Petit \and Rafael Sendra-Arranz \and \underline{\presenterName}}
 \institute{ETSI Telecomunicaci\'on, Universidad Polit\'ecnica de Madrid}
 \date{ICECER 2026 \\ 3 December 2026, Instambul, Turkey}   % <-- fill in dates/city
@@ -307,40 +307,50 @@
   where safety lives.}
   \column{0.58\textwidth}
   \centering
-  \resizebox{0.99\linewidth}{!}{%
-  \begin{tikzpicture}[
-    font=\footnotesize,
-    box/.style={draw=upmblue, thick, rounded corners=2pt, align=center,
-                inner sep=3pt, text width=5.6cm, minimum height=7.0mm},
-    llm/.style={box, fill=upmlight},
-    rea/.style={box, draw=upmred, fill=upmred!8},
-    ar/.style={-{Latex[length=1.6mm]}, thin, upmblue},
-  ]
-    \node[box, fill=gray!10, draw=upmgray] (m) {\textbf{Mission layer}\\[-1pt]
-      {\scriptsize natural-language goal}};
-    \node[llm, below=3.0mm of m] (c) {\textbf{Global planning \& management}\\[-1pt]
-      {\scriptsize central LLM $\rightarrow$ macro-task allocation}};
-    \node[llm, below=3.0mm of c] (l) {\textbf{Local deliberative layer}\\[-1pt]
-      {\scriptsize individual LLM $\rightarrow$ skill selection}};
-    \node[rea, below=3.0mm of l] (s) {\textbf{Skill layer}\\[-1pt]
-      {\scriptsize finite routines with termination conditions}};
-    \node[rea, below=3.0mm of s] (r) {\textbf{Reactive layer}\\[-1pt]
-      {\scriptsize obstacle avoidance, wheel actuation}};
-    \draw[ar] (m) -- (c);
-    \draw[ar] ([xshift=-10mm]c.south) -- node[left, pos=0.5, font=\scriptsize]{macro-task} ([xshift=-10mm]l.north);
-    \draw[ar] ([xshift=10mm]l.north) -- node[right, pos=0.5, font=\scriptsize]{events} ([xshift=10mm]c.south);
-    \draw[ar] ([xshift=-10mm]l.south) -- node[left, pos=0.5, font=\scriptsize]{skill} ([xshift=-10mm]s.north);
-    \draw[ar] ([xshift=10mm]s.north) -- node[right, pos=0.5, font=\scriptsize]{observation} ([xshift=10mm]l.south);
-    \draw[ar] (s) -- (r);
-    \draw[decorate, decoration={brace, amplitude=3pt}, upmblue]
-      ([xshift=2mm]c.north east) -- ([xshift=2mm]l.south east)
-      node[midway, right=3pt, font=\scriptsize, align=left, color=upmblue]
-      {event-\\driven\\($\sim$\,s)};
-    \draw[decorate, decoration={brace, amplitude=3pt}, upmred]
-      ([xshift=2mm]s.north east) -- ([xshift=2mm]r.south east)
-      node[midway, right=3pt, font=\scriptsize, align=left, color=upmred]
-      {periodic\\($0.5$\,s)};
-  \end{tikzpicture}%
+  \resizebox{0.79\linewidth}{!}{%
+\begin{tikzpicture}[
+  font=\footnotesize,
+  box/.style={draw, rounded corners=2pt, align=center, inner sep=3pt,
+              text width=0.70\columnwidth, minimum height=7.5mm},
+  llm/.style={box, fill=blue!8},
+  rea/.style={box, fill=orange!10},
+  ar/.style={-{Latex[length=1.6mm]}, thin},
+]
+\node[box, fill=gray!10] (m) {\textbf{Mission layer}\\[-1pt]
+  {\scriptsize natural-language goal}};
+\node[llm, below=3.2mm of m] (c) {\textbf{Global planning \& management}\\[-1pt]
+  {\scriptsize central LLM $\rightarrow$ macro-task allocation}\\[-1pt]
+  {\scriptsize{\texttt{gpt-oss:20b} via Ollama}}};
+\node[llm, below=3.2mm of c] (l) {\textbf{Local deliberative layer}\\[-1pt]
+  {\scriptsize individual LLM $\rightarrow$ skill selection}\\[-1pt]
+  {\scriptsize{one process per robot; JSON output}}};
+\node[rea, below=3.2mm of l] (s) {\textbf{Skill layer}\\[-1pt]
+  {\scriptsize finite routines with termination conditions}\\[-1pt]
+  {\scriptsize{Python; closed catalog (Table~\ref{tab:skills})}}};
+\node[rea, below=3.2mm of s] (r) {\textbf{Reactive layer}\\[-1pt]
+  {\scriptsize obstacle avoidance, wheel actuation}\\[-1pt]
+  {\scriptsize{runs every $0.5$\,s, independent of any query}}};
+
+\draw[ar] (m) -- (c);
+\draw[ar] ([xshift=-6mm]c.south) -- node[left, pos=0.5, font=\scriptsize]
+      {macro-task} ([xshift=-6mm]l.north);
+\draw[ar] ([xshift=6mm]l.north) -- node[right, pos=0.5, font=\scriptsize]
+      {events} ([xshift=6mm]c.south);
+\draw[ar] ([xshift=-6mm]l.south) -- node[left, pos=0.5, font=\scriptsize]
+      {skill} ([xshift=-6mm]s.north);
+\draw[ar] ([xshift=6mm]s.north) -- node[right, pos=0.5, font=\scriptsize]
+      {observation} ([xshift=6mm]l.south);
+\draw[ar] (s) -- (r);
+
+\draw[decorate, decoration={brace, amplitude=3pt}]
+  ([xshift=2mm]c.north east) -- ([xshift=2mm]l.south east)
+  node[midway, right=3pt, font=\scriptsize, align=left]
+  {event-\\driven\\ macro\\tasks($\sim$s)};
+\draw[decorate, decoration={brace, amplitude=3pt}]
+  ([xshift=2mm]s.north east) -- ([xshift=2mm]r.south east)
+  node[midway, right=3pt, font=\scriptsize, align=left]
+  {periodic\\($\sim$ tenths\,ms)};
+\end{tikzpicture}
   }
   \end{columns}
   \note{80 s. Walk top to bottom: mission, central allocation, local skill

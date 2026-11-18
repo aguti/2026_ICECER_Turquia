@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.11.3)  18 NOV 2026 10:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.11.3)  18 NOV 2026 10:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1257,97 +1257,101 @@ Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 286.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 350.
+ine 360.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 350.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 360.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 350.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 360.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 350.
-File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
-<use logo/LOGOTIPO-leyenda-color-PNG-p.png>
-Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 350.
-(pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
-File: logo/LOGO_ESCUELA.png Graphic file (type png)
-<use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 350.
-(pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
-File: logo/robolabo_cover.jpeg Graphic file (type jpg)
-<use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 350.
-(pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
- [7
-
-]
-File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
-<use logo/LOGOTIPO-leyenda-color-PNG-p.png>
-Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 391.
-(pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
-File: logo/LOGO_ESCUELA.png Graphic file (type png)
-<use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 391.
-(pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
-File: logo/robolabo_cover.jpeg Graphic file (type jpg)
-<use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 391.
-(pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 360.
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
-91.
+60.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-Overfull \hbox (1.03137pt too wide) in paragraph at lines 391--391
+
+LaTeX Warning: Reference `tab:skills' on page 7 undefined on input line 360.
+
+File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
+<use logo/LOGOTIPO-leyenda-color-PNG-p.png>
+Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
+ine 360.
+(pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
+File: logo/LOGO_ESCUELA.png Graphic file (type png)
+<use logo/LOGO_ESCUELA.png>
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 360.
+(pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
+File: logo/robolabo_cover.jpeg Graphic file (type jpg)
+<use logo/robolabo_cover.jpeg>
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 360.
+(pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
+[7
+
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
+File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
+<use logo/LOGOTIPO-leyenda-color-PNG-p.png>
+Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
+ine 401.
+(pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
+File: logo/LOGO_ESCUELA.png Graphic file (type png)
+<use logo/LOGO_ESCUELA.png>
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 401.
+(pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
+File: logo/robolabo_cover.jpeg Graphic file (type jpg)
+<use logo/robolabo_cover.jpeg>
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 401.
+(pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
+
+Overfull \hbox (1.03137pt too wide) in paragraph at lines 401--401
 [][]  
  []
 
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 391.
+ine 401.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 391.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 401.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 391.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 401.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
 [8
 
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
+]
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 436.
+ine 446.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 436.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 446.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 436.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 446.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 436.
+ine 446.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 436.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 446.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 436.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 446.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
  [9
 
@@ -1355,15 +1359,15 @@ Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 436.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 438.
+ine 448.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 438.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 448.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 438.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 448.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
  [10
 
@@ -1371,52 +1375,51 @@ Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 438.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 469.
+ine 479.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 469.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 479.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 469.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 479.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <9> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 469.
-<figs/arena.pdf, id=103, 398.75294pt x 238.14185pt>
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 479.
+<figs/arena.pdf, id=105, 398.75294pt x 238.14185pt>
 File: figs/arena.pdf Graphic file (type pdf)
 <use figs/arena.pdf>
-Package pdftex.def Info: figs/arena.pdf  used on input line 469.
+Package pdftex.def Info: figs/arena.pdf  used on input line 479.
 (pdftex.def)             Requested size: 235.5379pt x 140.66597pt.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 469.
+ine 479.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 469.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 479.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 469.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 479.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
-
-[11
+ [11
 
  <./figs/arena.pdf>]
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 471.
+ine 481.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 471.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 481.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 471.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 481.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
  [12
 
@@ -1424,93 +1427,94 @@ Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 471.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 510.
+ine 520.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 510.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 520.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 510.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 520.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
-<figs/singlerobot.pdf, id=166, 244.81682pt x 134.33563pt>
+<figs/singlerobot.pdf, id=168, 244.81682pt x 134.33563pt>
 File: figs/singlerobot.pdf Graphic file (type pdf)
 <use figs/singlerobot.pdf>
-Package pdftex.def Info: figs/singlerobot.pdf  used on input line 510.
+Package pdftex.def Info: figs/singlerobot.pdf  used on input line 520.
 (pdftex.def)             Requested size: 216.01518pt x 118.53136pt.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 510.
+ine 520.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 510.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 520.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 510.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 520.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
  [13
 
  <./figs/singlerobot.pdf>]
 File: figs/singlerobot.pdf Graphic file (type pdf)
 <use figs/singlerobot.pdf>
-Package pdftex.def Info: figs/singlerobot.pdf  used on input line 510.
+Package pdftex.def Info: figs/singlerobot.pdf  used on input line 520.
 (pdftex.def)             Requested size: 216.01518pt x 118.53136pt.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 510.
+ine 520.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 510.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 520.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 510.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 520.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
- [14
+
+[14
 
 ]
 File: figs/singlerobot.pdf Graphic file (type pdf)
 <use figs/singlerobot.pdf>
-Package pdftex.def Info: figs/singlerobot.pdf  used on input line 510.
+Package pdftex.def Info: figs/singlerobot.pdf  used on input line 520.
 (pdftex.def)             Requested size: 216.01518pt x 118.53136pt.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 510.
+ine 520.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 510.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 520.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 510.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 520.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
  [15
 
 ]
 File: figs/singlerobot.pdf Graphic file (type pdf)
 <use figs/singlerobot.pdf>
-Package pdftex.def Info: figs/singlerobot.pdf  used on input line 510.
+Package pdftex.def Info: figs/singlerobot.pdf  used on input line 520.
 (pdftex.def)             Requested size: 216.01518pt x 118.53136pt.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 510.
+ine 520.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 510.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 520.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 510.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 520.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
  [16
 
@@ -1518,68 +1522,67 @@ Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 510.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 534.
+ine 544.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 534.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 544.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 534.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 544.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
-<figs/success.pdf, id=230, 244.49625pt x 102.52428pt>
+<figs/success.pdf, id=232, 244.49625pt x 102.52428pt>
 File: figs/success.pdf Graphic file (type pdf)
 <use figs/success.pdf>
-Package pdftex.def Info: figs/success.pdf  used on input line 534.
+Package pdftex.def Info: figs/success.pdf  used on input line 544.
 (pdftex.def)             Requested size: 257.55241pt x 108.01033pt.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 534.
+ine 544.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 534.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 544.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 534.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 544.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
-
-[17
+ [17
 
  <./figs/success.pdf>]
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 558.
+ine 568.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 558.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 568.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 558.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 568.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
-<figs/rmse.pdf, id=276, 258.4399pt x 102.36055pt>
+<figs/rmse.pdf, id=278, 258.4399pt x 102.36055pt>
 File: figs/rmse.pdf Graphic file (type pdf)
 <use figs/rmse.pdf>
-Package pdftex.def Info: figs/rmse.pdf  used on input line 558.
+Package pdftex.def Info: figs/rmse.pdf  used on input line 568.
 (pdftex.def)             Requested size: 257.55241pt x 102.00885pt.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 558.
+ine 568.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 558.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 568.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 558.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 568.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
  [18
 
@@ -1587,28 +1590,28 @@ Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 558.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 597.
+ine 607.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 597.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 607.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 597.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 607.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 597.
+ine 607.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 597.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 607.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 597.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 607.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
  [19
 
@@ -1616,28 +1619,28 @@ Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 597.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 642.
+ine 652.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 642.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 652.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 642.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 652.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 642.
+ine 652.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 642.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 652.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 642.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 652.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
  [20
 
@@ -1645,46 +1648,47 @@ Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 642.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 644.
+ine 654.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 644.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 654.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 644.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 654.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
- [21
+
+[21
 
 ]
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 675.
+ine 685.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 675.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 685.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 675.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 685.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 675.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 685.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 675.
+ine 685.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 675.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 685.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 675.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 685.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
  [22
 
@@ -1692,28 +1696,28 @@ Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 675.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 710.
+ine 720.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 710.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 720.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 710.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 720.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 710.
+ine 720.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 710.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 720.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 710.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 720.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
  [23
 
@@ -1721,31 +1725,30 @@ Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 710.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 745.
+ine 755.
 (pdftex.def)             Requested size: 58.20827pt x 27.03003pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 745.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 755.
 (pdftex.def)             Requested size: 59.15724pt x 18.49411pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 745.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 755.
 (pdftex.def)             Requested size: 48.15944pt x 18.49411pt.
 File: logo/LOGOTIPO-leyenda-color-PNG-p.png Graphic file (type png)
 <use logo/LOGOTIPO-leyenda-color-PNG-p.png>
 Package pdftex.def Info: logo/LOGOTIPO-leyenda-color-PNG-p.png  used on input l
-ine 745.
+ine 755.
 (pdftex.def)             Requested size: 70.4652pt x 32.72049pt.
 File: logo/LOGO_ESCUELA.png Graphic file (type png)
 <use logo/LOGO_ESCUELA.png>
-Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 745.
+Package pdftex.def Info: logo/LOGO_ESCUELA.png  used on input line 755.
 (pdftex.def)             Requested size: 81.91667pt x 25.6073pt.
 File: logo/robolabo_cover.jpeg Graphic file (type jpg)
 <use logo/robolabo_cover.jpeg>
-Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 745.
+Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 755.
 (pdftex.def)             Requested size: 66.6884pt x 25.6073pt.
-
-[24
+ [24
 
 ]
 \tf@nav=\write6
@@ -1762,34 +1765,42 @@ Package pdftex.def Info: logo/robolabo_cover.jpeg  used on input line 745.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `slides.out' has not changed.
 (rerunfilecheck)             Checksum: 7D0E7A50EB9FF4B9D079789A3190CE23;478.
  ) 
 Here is how much of TeX's memory you used:
- 26784 strings out of 476047
- 535589 string characters out of 5792075
- 1941975 words of memory out of 5000000
- 48176 multiletter control sequences out of 15000+600000
+ 26793 strings out of 476047
+ 535765 string characters out of 5792075
+ 1942975 words of memory out of 5000000
+ 48184 multiletter control sequences out of 15000+600000
  644367 words of font info for 123 fonts, out of 8000000 for 9000
  85 hyphenation exceptions out of 8191
- 128i,15n,123p,408b,1093s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsy9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800
-.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/hel
-vetic/uhvro8a.pfb>
-Output written on build/slides.pdf (24 pages, 528617 bytes).
+ 128i,15n,123p,408b,1114s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{tab:skills} has been referenced but does not exist,
+ replaced by a fixed one
+
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800.p
+fb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helve
+tic/uhvro8a.pfb>
+Output written on build/slides.pdf (24 pages, 529348 bytes).
 PDF statistics:
- 436 PDF objects out of 1000 (max. 8388607)
- 215 compressed objects within 3 object streams
- 54 named destinations out of 1000 (max. 500000)
+ 439 PDF objects out of 1000 (max. 8388607)
+ 218 compressed objects within 3 object streams
+ 55 named destinations out of 1000 (max. 500000)
  118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
